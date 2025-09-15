@@ -1,0 +1,9 @@
+*.bak
+*.html
+*.zip
+*.pdf
+!DDS.zip
+*.Cam
+Project Logs for DDS_AD9948/
+History/
+__Previews/

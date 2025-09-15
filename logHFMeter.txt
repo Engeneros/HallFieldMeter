@@ -1,0 +1,2 @@
+15.09.25 Hall Field meter begin;
+		Current src to shematic.
