@@ -1,3 +1,4 @@
 15.09.25 Hall Field meter begin;
 		Current src to shematic.
-17.09.25 ADC (begin) LDOs, ADC's ref2V5 to shematic 		
+17.09.25 ADC (begin) LDOs, ADC's ref2V5 to shematic 
+18.09.25 ADC + calibrator(begin)		
