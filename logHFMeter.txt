@@ -3,3 +3,4 @@
 17.09.25 ADC (begin) LDOs, ADC's ref2V5 to shematic 
 18.09.25 ADC + calibrator(begin)	
 22.09.25 Mux for calibration	
+26.09.25 Ethernet: uC+phy
