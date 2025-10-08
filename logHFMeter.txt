@@ -4,3 +4,4 @@
 18.09.25 ADC + calibrator(begin)	
 22.09.25 Mux for calibration	
 26.09.25 Ethernet: uC+phy
+08.10.25 POE bridge
