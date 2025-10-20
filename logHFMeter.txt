@@ -5,3 +5,4 @@
 22.09.25 Mux for calibration	
 26.09.25 Ethernet: uC+phy
 08.10.25 POE bridge
+20.10.25 Power convertor 12V->3V3 LMZ12003
