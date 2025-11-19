@@ -7,3 +7,4 @@
 08.10.25 POE bridge
 20.10.25 Power convertor 12V->3V3 LMZ12003
 		 UART begin
+19.11.25 all futprnt added
