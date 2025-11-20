@@ -8,3 +8,5 @@
 20.10.25 Power convertor 12V->3V3 LMZ12003
 		 UART begin
 19.11.25 all futprnt added
+20.11.25 DSP1004 futprnt added, New Annotation
+
