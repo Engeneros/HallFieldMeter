@@ -1,8 +1,10 @@
 *.bak
 *.html
 *.zip
-*.pdf
 *.Cam
 Project Logs for HallFieldMeter/
 History/
 __Previews/
+inputs/
+Outputs/
+*.step
