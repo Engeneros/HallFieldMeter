@@ -8,3 +8,5 @@ __Previews/
 inputs/
 Outputs/
 *.step
+*.DXF
+*.pdf
